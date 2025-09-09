@@ -1,3 +1,9 @@
+![Header](./github-header-banner.png)
+
+
+
+
+
 # 💫 About Me:
 Pentester y sysadmin orientado a resultados, con foco en hardening, automatización y respuesta ante incidentes. <br>Combino pruebas de intrusión, ingeniería de redes y scripting en Python para detectar y mitigar riesgos en entornos híbridos y on‑premise<br><br>Lo que hago<br>Pruebas de intrusión end‑to‑end: reconocimiento, explotación controlada y reporting accionable para equipos de TI y negocio.<br><br>Operación y hardening de infraestructura: Cisco/UniFi/Forti,Darktrace, servidores Linux/Windows, monitoreo y detección con Darktrace.<br><br>Automatización con Python: tooling para enumeración, parsers de logs, y utilidades de red para soporte a red/seguridad.<br><br>Intereses técnicos<br>Red Team y Blue Team, escalada de privilegios en Linux, detección evasiva e ingeniería de tráfico.<br><br>Criptografía aplicada y ecosistema blockchain; curiosidad por historia de cifrados (Enigma y derivados).<br><br>Scripting reproducible, documentación clara y repositorios con tests y linters integrados.<br><br>Tecnología<br>Redes y seguridad: Cisco, FortiGate/FortiSwitch, UniFi, segmentación, IDS/IPS, NAC, y monitoreo con Darktrace.<br><br>Sistemas: Linux y Windows Server, hardening, logging centralizado y tareas programadas de mantenimiento.<br><br>Lenguajes/Dev: Python (scripts de seguridad y automatización), integración con pipelines y control de versiones en Git.
 
